@@ -1,7 +1,7 @@
 (function($) {
   $.fn.masonry = function(option){
 
-  	var self = this;
+    var self = this;
     var defaults = {
         box_margin_width:15,
         box_margin_height:20,
